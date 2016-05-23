@@ -1,3 +1,4 @@
+<?php
 /**
  * Trims a string to no longer than the specified number of characters,
  * gracefully stopping at white spaces and closing any allowed html tags.
